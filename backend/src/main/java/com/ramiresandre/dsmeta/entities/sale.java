@@ -43,13 +43,13 @@ public class sale {
 
 
 	public String getSallerName() {
-		return sallerName;
+		return sellerName;
 	}
 
 
 
 	public void setSallerName(String sallerName) {
-		this.sallerName = sallerName;
+		this.sellerName = sallerName;
 	}
 
 
@@ -91,12 +91,12 @@ public class sale {
 
 
 	public LocalDate getData() {
-		return data;
+		return date;
 	}
 
 
 
 	public void setData(LocalDate data) {
-		this.data = data;
+		this.date = data;
 	}
 	}
