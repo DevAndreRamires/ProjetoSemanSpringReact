@@ -96,7 +96,7 @@ public class sale {
 
 
 
-	public void setData(LocalDate data) {
-		this.date = data;
+	public void setData(LocalDate date) {
+		this.date = date;
 	}
 	}
